@@ -14,17 +14,16 @@ This currency authentication system has been designed completely using Python la
 5. Jupyter Notebook
 
 ## Dataset
-This currency detection currently works only for Indian Currency notes of denomination 500 and 2000. The dataset used for this purpose is included in this repository and has been custom- built by collecting necessary images from various sources. To know more about dataset refer to the report of this project present in this repository. 
+This currency detection currently works only for Indian Currency notes of denomination 500. The dataset used for this purpose is included in this repository and has been custom- built by collecting necessary images from various sources. To know more about dataset refer to the report of this project present in this repository. 
 
 ## Structure
-1. **Dataset:** Contains all necessary images. This directory also contains images of real 500 and 2000 rupee notes which you can use to test the system. Read the report to know more about structure of dataset.
-2. **Fake Notes:** Contains images of fake 500 and 2000 rupee notes. You can use these images to test the system if you want.
+1. **Dataset:** Contains all necessary images. This directory also contains images of real 500  rupee notes which you can use to test the system. Read the report to know more about structure of dataset.
+2. **Fake Notes:** Contains images of fake 500 rupee notes. You can use these images to test the system if you want.
 3. **500_testing.ipynb:** This notebook processes input image of 500 denomination currency bills.
-4. **2000_testing.ipynb:** This notebook processes input image of 2000 denomination currency bills.
-5. **controller.ipynb:** This notebook is the main notebook which takes the input, runs all necessary notebooks and displays the output.
-6. **gui_1.ipynb:** This notebook produces a GUI to take the input data from the user.
-7. **gui_2.ipynb:** This notebook produces a GUI to display the result.
-8. **FAKE_CURRENCY_DETECTOR_REPORT:** Report of this project. This file contains the complete information of the project. Refer to this report file for methodology, snapshots, results and other details regarding this project.
+4. **controller.ipynb:** This notebook is the main notebook which takes the input, runs all necessary notebooks and displays the output.
+5. **gui_1.ipynb:** This notebook produces a GUI to take the input data from the user.
+6. **gui_2.ipynb:** This notebook produces a GUI to display the result.
+7. **FAKE_CURRENCY_DETECTOR_REPORT:** Report of this project. This file contains the complete information of the project. Refer to this report file for methodology, snapshots, results and other details regarding this project.
 
 ## Working
 
